@@ -1,0 +1,19 @@
+<root> 
+	<people>
+		<person>
+			<id>1 </id>
+			<name>John Smith </name>
+			<address>USA </address>
+		<person>
+		<person>
+			<id>2</id>
+			<name>Ivan Petrov </name>
+			<address>Bulgaria </address>
+		<person>
+		<person>
+			<id>1 _2</id>
+			<name>Fridrich Petrov </name>
+			<address>France </address>
+		<person>
+	</people>
+</root>
